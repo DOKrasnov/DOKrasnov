@@ -13,7 +13,6 @@
   ![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Redux](https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![Redux Toolkit](https://img.shields.io/badge/redux%20toolkit-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![CSS-in-JS](https://img.shields.io/badge/css--in--js-20232A.svg?style=for-the-badge&logo=styled-components&logoColor=DB7093)
 
 
